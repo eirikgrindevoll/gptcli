@@ -19,6 +19,7 @@ The aim of this project is to provide a tool that can perform tasks based on nat
 ## System Requirements
 
 GPTCLI is designed to run on platforms with Python 3.x and the OpenAI Python client. 
+
 pip install -r requirements.txt
 
 **Note:** As this tool can autonomously execute commands on your system, please use it responsibly and be aware of the potential security implications.
