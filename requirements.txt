@@ -1,16 +1,5 @@
 openai
-subprocess
-re
 pexpect
-sys
-io
-json
-os
 distro
-platform
-atexit
 backoff
-configparser
 colorama
-getpass
-functools
