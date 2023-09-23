@@ -1,3 +1,4 @@
+
 # GPTCLI: Autonomous Command Line Interface Powered by GPT-4
 
 GPTCLI is an innovative autonomous tool that integrates OpenAI's GPT-4 model with a command-line interface. Currently tested on Linux Ubuntu WSL, it leverages the GPT-4 model to provide an interactive environment where the system autonomously derives and executes appropriate commands based on the provided context or task.
@@ -7,7 +8,7 @@ GPTCLI is an innovative autonomous tool that integrates OpenAI's GPT-4 model wit
 - **Autonomous Interactions**: Works autonomously without requiring user interaction after the initial task is inputted.
 - **Natural Language Processing**: Leverages OpenAI's GPT-4 model to interpret the context and generate relevant commands.
   
-![demo](https://github.com/eirikgrindevoll/gptcli/assets/43350451/16191413-da81-4609-b8f3-de0fc76bc2df)
+![demo](https://github.com/eirikgrindevoll/gptcli/assets/43350451/3a20bef7-496f-4e21-8a62-06650c7a4ebd)
 
 ## Usage
 
