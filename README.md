@@ -6,6 +6,8 @@ GPTCLI is an innovative autonomous tool that integrates OpenAI's GPT-4 model wit
 
 - **Autonomous Interactions**: Works autonomously without requiring user interaction after the initial task is inputted.
 - **Natural Language Processing**: Leverages OpenAI's GPT-4 model to interpret the context and generate relevant commands.
+  
+![demo](https://github.com/eirikgrindevoll/gptcli/assets/43350451/16191413-da81-4609-b8f3-de0fc76bc2df)
 
 ## Usage
 
